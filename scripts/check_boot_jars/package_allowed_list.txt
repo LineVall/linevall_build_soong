@@ -269,6 +269,11 @@ qcom.fmradio
 org\.ifaa\.android\.manager.*
 
 ###################################################
+# QCOM WFD
+com\.qualcomm\.wfd
+com\.qualcomm\.wfd\..*
+
+###################################################
 # CodeAurora IMS functionality needed by frameworks/opt/telephony
 # as part of "ims-ext-common"
 org\.codeaurora\.ims.*
